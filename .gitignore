@@ -1,0 +1,4 @@
+*.png
+/tmp
+/go/web_service/
+/.venv/
